@@ -1,0 +1,7 @@
+{
+  "name": "SquadForge",
+  "description": "A collaborative gaming network to find teammates, build squads across 5+ popular games, interact through live chatrooms, and showcase custom gamer profile cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
